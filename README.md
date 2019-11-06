@@ -1,4 +1,5 @@
 # AutoEncoders-AEs-
 Different Models of AutoEncoders 
 
-- sparce AE / mnist dataset
+- sparce AE 
+  dataset: MNIST digits
