@@ -1,8 +1,10 @@
 # Deep Learning Solutions
 Some experiments during the first year of master
 
-- Neural Networks
+- Convolutional Neural Networks
   dataset: hoda- persian alphabet
+
+- Transfer Learning
 
 - Different Models of AutoEncoders 
   sparce AE 
