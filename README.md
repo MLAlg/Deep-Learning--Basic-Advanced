@@ -1,5 +1,10 @@
 # AutoEncoders-AEs-
-Different Models of AutoEncoders 
+Some experiments during the first year of master
 
-- sparce AE 
+
+- Neural Networks
+  dataset: hoda- persian alphabet
+
+- Different Models of AutoEncoders 
+  sparce AE 
   dataset: MNIST digits
