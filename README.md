@@ -1,6 +1,5 @@
-# AutoEncoders-AEs-
+# Deep Learning Solutions
 Some experiments during the first year of master
-
 
 - Neural Networks
   dataset: hoda- persian alphabet
